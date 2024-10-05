@@ -1,0 +1,74 @@
+.main_Container{
+
+   display: flex;
+   justify-content: space-between;
+ 
+
+   
+}
+
+.card_container{
+    margin: 15px;
+    font-size: small;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+   
+  
+}
+
+.card_image > img {
+
+    max-width: 380px;
+    min-width: 370px;
+    max-height: 200px;
+    max-height: 190px;
+}
+
+.card_image{
+
+    width: 380px;
+    height: 200px;
+    margin: 10px;
+
+}
+
+.card_author{
+
+    padding-bottom: 10px;
+}
+
+.card_title{
+
+    padding-bottom: 10px;
+}
+
+.card_content{
+    padding-bottom: 10px;
+ 
+
+}
+
+.card_footer{
+
+    margin: 10px;
+}
+
+.card_footer > ul{
+
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.card_footer > ul > li{
+
+    list-style: none;
+    border: 1px solid #3a3838;
+    border-radius: 15px;
+    color: #000000;
+    padding: 3px;
+    
+
+}

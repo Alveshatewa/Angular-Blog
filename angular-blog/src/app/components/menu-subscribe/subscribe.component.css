@@ -1,0 +1,33 @@
+.container_subscribe{
+    margin-left: 24px;
+    margin-bottom: 50px;
+}
+
+h4{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: lighter;
+}
+
+h1{
+    margin-bottom: 15px;
+}
+
+input{
+    width: 300px;
+    border-radius: 10px;
+    padding: 8px;
+    border: none;
+    cursor: pointer;
+   
+}
+
+button{
+    width:100px ;
+    border-radius: 10px;
+    padding: 8px;
+    background-color:  rgb(4, 70, 133);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}

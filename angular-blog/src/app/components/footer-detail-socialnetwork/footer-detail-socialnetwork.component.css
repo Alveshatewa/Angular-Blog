@@ -1,0 +1,17 @@
+
+.footer_detail > ul{
+    display: flex;
+    flex-direction: row;
+}
+
+.footer_detail > ul > li{
+
+    list-style: none;
+    padding-right: 25px;
+    margin-bottom: 60px;
+}
+
+.footer_detail > ul > li > a{
+    color: #fff;
+   text-decoration: none;
+}
